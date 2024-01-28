@@ -1,0 +1,5 @@
+---
+localStorageClass:
+  name: local-storage
+  reclaimPolicy: Retain
+  isDefault: false
